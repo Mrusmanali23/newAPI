@@ -1,0 +1,7 @@
+{
+    "MongoDB":{
+    "DB":"mongodb://localhost/Management",
+    "jwtPrivateKey":"SomePrivateKey"
+}
+
+}

@@ -1,0 +1,7 @@
+
+{
+    "MongoDB":{
+    
+    "oDB":"mongodb+srv://newUser:game1234@employeemanage.fzfcy.mongodb.net/Management?retryWrites=true&w=majority",
+    "jwtPrivateKey":"SomePrivateKey"
+} }
